@@ -3,5 +3,9 @@ uvicorn==0.27.0
 sqlalchemy==2.0.25
 passlib[bcrypt]==1.7.4
 python-jose[cryptography]==3.3.0
+<<<<<<< HEAD
 python-dotenv
 python-multipart
+=======
+python-dotenv
+>>>>>>> f3418da (update)
